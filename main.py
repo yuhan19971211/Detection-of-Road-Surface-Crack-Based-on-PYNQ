@@ -5,6 +5,7 @@ import numpy as np
 import skimage.io as io
 from skimage import data_dir
 from matplotlib import pyplot as plt
+#You must add the picture with the main.py at the same path
 str= '*.jpg'
 coll=io.ImageCollection(str)
 
