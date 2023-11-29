@@ -5,6 +5,10 @@ This project aims at the problem of road surface image denoising and crack recog
 
 If this Rep is useful for you please star ！
 
+**How to run:** 
+python main.py
+
+
 If you use this Rep（Include image and code）please cite this paper：
 Z. Yuhan, Q. Juan, G. Zhiling, J. Kuncheng and C. Shiyuan, "Detection of Road Surface Crack Based on PYNQ," 2020 IEEE International Conference on Mechatronics and Automation (ICMA), 2020, pp. 1150-1154, doi: 10.1109/ICMA49215.2020.9233608.
 
